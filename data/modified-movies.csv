@@ -1,0 +1,7 @@
+id,Title,Year,Rated,Released,Genre
+1,Avatar,2009,PG-13,18 Dec 2009,"[\"Action\",\"Adventure\",\"Fantasy\"]"
+2,I Am Legend,2007,PG-13,14 Dec 2007,"[\"Drama\",\"Horror\",\"Sci-Fi\"]"
+3,300,2006,R,09 Mar 2007,"[\"Action\",\"Drama\",\"Fantasy\"]"
+4,The Avengers,2012,PG-13,04 May 2012,"[\"Action\",\"Sci-Fi\",\"Thriller\"]"
+5,The Wolf of Wall Street,2013,R,25 Dec 2013,"[\"Biography\",\"Comedy\",\"Crime\"]"
+6,Interstellar,2014,PG-13,07 Nov 2014,"[\"Adventure\",\"Drama\",\"Sci-Fi\"]"

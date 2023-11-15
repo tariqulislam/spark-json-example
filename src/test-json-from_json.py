@@ -55,6 +55,13 @@ class ReadCSVJson:
         movie_df.show(truncate=False)
         movie_df.printSchema()
 
+        # movie_df.write\
+        # .format("csv")\
+        # .option("header", True)\
+        # .mode("overwrite")\
+        # .csv(f"file://{APP_DIR}/data/modified-movie.csv")
+        
+
 if __name__ == "__main__":
     rcj = ReadCSVJson()
     rcj.read()
